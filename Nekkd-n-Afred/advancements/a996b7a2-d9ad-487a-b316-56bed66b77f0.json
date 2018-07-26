@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-07-22 21:35:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-07-21 20:36:09 -0400"
@@ -194,6 +200,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-21 22:14:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
     },
     "done": true
   },
@@ -233,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2018-07-21 22:40:16 -0400"
@@ -248,6 +266,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_red_dye": "2018-07-22 09:48:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2018-07-22 21:47:34 -0400"
     },
     "done": true
   },
@@ -287,8 +311,10 @@
       "baked_potato": "2018-07-21 21:23:20 -0400",
       "potato": "2018-07-21 22:48:13 -0400",
       "rabbit": "2018-07-21 22:44:31 -0400",
+      "poisonous_potato": "2018-07-27 22:53:43 -0400",
       "rotten_flesh": "2018-07-21 22:12:27 -0400",
-      "cooked_salmon": "2018-07-21 22:14:02 -0400"
+      "cooked_salmon": "2018-07-21 22:14:02 -0400",
+      "carrot": "2018-07-22 22:05:40 -0400"
     },
     "done": false
   },
@@ -364,15 +390,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2018-07-21 21:05:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-21 21:05:56 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
-      "has_sand": "2018-07-21 21:05:56 -0400"
+      "has_bonemeal": "2018-07-22 21:35:33 -0400"
     },
     "done": true
   },
@@ -456,6 +488,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2018-07-27 23:10:48 -0400",
       "minecraft:sheep": "2018-07-21 21:23:53 -0400"
     },
     "done": false
@@ -502,6 +535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2018-07-21 20:35:30 -0400"
@@ -535,6 +574,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-21 22:14:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
     },
     "done": true
   },
@@ -670,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2018-07-22 21:47:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-21 22:07:16 -0400"
@@ -712,6 +763,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-21 22:14:42 -0400"
@@ -725,9 +788,16 @@
       "minecraft:spider": "2018-07-21 21:14:43 -0400",
       "minecraft:zombie": "2018-07-21 21:13:39 -0400",
       "minecraft:creeper": "2018-07-21 20:53:42 -0400",
+      "minecraft:drowned": "2018-07-27 23:31:09 -0400",
       "minecraft:zombie_villager": "2018-07-21 20:59:05 -0400"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -801,15 +871,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-07-22 21:43:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-21 22:14:42 -0400"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-07-22 21:49:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-07-21 20:36:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
     },
     "done": true
   },
@@ -891,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2018-07-22 21:43:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-07-21 23:12:46 -0400"
@@ -933,6 +1027,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-07-22 21:35:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_red_dye": "2018-07-22 09:48:39 -0400"
@@ -960,6 +1066,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2018-07-21 21:43:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2018-07-22 21:35:33 -0400"
     },
     "done": true
   },
@@ -1278,9 +1390,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-07-22 11:09:13 -0400",
+      "minecraft:mountains": "2018-07-23 22:40:21 -0400",
       "minecraft:desert_hills": "2018-07-21 21:18:09 -0400",
       "minecraft:deep_cold_ocean": "2018-07-22 11:10:21 -0400",
       "minecraft:desert": "2018-07-21 20:37:29 -0400",
+      "minecraft:deep_frozen_ocean": "2018-07-27 23:23:04 -0400",
       "minecraft:savanna_plateau": "2018-07-21 23:13:59 -0400",
       "minecraft:beach": "2018-07-22 11:09:11 -0400",
       "minecraft:river": "2018-07-21 20:54:43 -0400",
@@ -1422,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-07-22 21:43:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-21 22:07:16 -0400"
@@ -1467,6 +1587,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2018-07-21 21:16:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2018-07-22 21:49:02 -0400"
     },
     "done": true
   },
@@ -1527,6 +1653,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-21 22:14:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-07-22 21:35:33 -0400"
     },
     "done": true
   }
