@@ -985,19 +985,19 @@
       "minecraft:husk": "2018-07-22 10:51:12 -0400",
       "minecraft:spider": "2018-07-27 22:25:54 -0400",
       "minecraft:zombie": "2018-07-22 10:38:14 -0400",
-      "minecraft:creeper": "2018-07-22 10:55:55 -0400",
       "minecraft:drowned": "2018-07-27 23:26:40 -0400",
+      "minecraft:creeper": "2018-07-22 10:55:55 -0400",
       "minecraft:zombie_villager": "2018-07-27 22:05:37 -0400"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-21 21:24:05 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-21 21:24:05 -0400"
     },
