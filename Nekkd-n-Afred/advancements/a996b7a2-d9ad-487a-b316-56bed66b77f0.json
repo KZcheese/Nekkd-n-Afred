@@ -763,13 +763,21 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/tools/diamond_pickaxe": {
+=======
+  "minecraft:recipes/tools/diamond_hoe": {
+>>>>>>> 12fec741cc2b838c1bb88a2d9ffd62db72039ee6
     "criteria": {
       "has_diamond": "2018-07-22 21:49:02 -0400"
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/tools/diamond_hoe": {
+=======
+  "minecraft:recipes/tools/diamond_pickaxe": {
+>>>>>>> 12fec741cc2b838c1bb88a2d9ffd62db72039ee6
     "criteria": {
       "has_diamond": "2018-07-22 21:49:02 -0400"
     },
