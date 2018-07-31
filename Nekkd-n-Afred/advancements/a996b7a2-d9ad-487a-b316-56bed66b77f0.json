@@ -691,13 +691,35 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/tools/diamond_pickaxe": {
+=======
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-07-21 22:54:00 -0400"
+    },
+    "done": true
+  },
+<<<<<<< HEAD
+  "minecraft:recipes/tools/diamond_pickaxe": {
+=======
+  "minecraft:recipes/tools/diamond_hoe": {
+>>>>>>> 12fec741cc2b838c1bb88a2d9ffd62db72039ee6
+>>>>>>> 08b467b9b81b0893506edb4e15e8b72e0712cb22
     "criteria": {
       "has_diamond": "2018-07-28 11:31:59 -0400"
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/tools/diamond_hoe": {
+=======
+<<<<<<< HEAD
+  "minecraft:recipes/tools/diamond_hoe": {
+=======
+  "minecraft:recipes/tools/diamond_pickaxe": {
+>>>>>>> 12fec741cc2b838c1bb88a2d9ffd62db72039ee6
+>>>>>>> 08b467b9b81b0893506edb4e15e8b72e0712cb22
     "criteria": {
       "has_diamond": "2018-07-28 11:31:59 -0400"
     },
