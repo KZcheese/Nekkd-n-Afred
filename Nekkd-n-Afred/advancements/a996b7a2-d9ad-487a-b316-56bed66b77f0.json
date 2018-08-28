@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-08-27 22:20:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-08-04 12:04:59 -0400"
@@ -327,6 +333,7 @@
     "criteria": {
       "cooked_beef": "2018-08-05 09:03:45 -0400",
       "baked_potato": "2018-08-04 10:44:09 -0400",
+      "bread": "2018-08-27 21:34:05 -0400",
       "rotten_flesh": "2018-08-04 11:46:47 -0400",
       "carrot": "2018-08-04 11:31:47 -0400"
     },
@@ -404,13 +411,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-04 10:43:11 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-04 10:43:11 -0400"
     },
@@ -877,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-08-27 23:10:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2018-08-04 11:35:40 -0400"
@@ -1091,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2018-08-27 23:28:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2018-08-04 10:43:11 -0400"
@@ -1292,6 +1311,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2018-08-05 13:32:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-08-27 22:20:30 -0400"
     },
     "done": true
   },
