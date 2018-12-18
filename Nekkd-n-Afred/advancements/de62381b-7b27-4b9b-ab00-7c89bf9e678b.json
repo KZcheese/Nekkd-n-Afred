@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2018-12-01 01:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2018-08-27 23:17:54 -0400"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2018-12-01 01:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2018-07-21 22:06:56 -0400"
@@ -345,6 +357,8 @@
     "criteria": {
       "cooked_porkchop": "2018-09-02 23:46:07 -0400",
       "baked_potato": "2018-07-22 11:10:43 -0400",
+      "cooked_cod": "2018-11-30 23:08:43 -0500",
+      "pumpkin_pie": "2018-11-30 23:49:33 -0500",
       "bread": "2018-07-22 10:16:20 -0400",
       "beetroot": "2018-09-02 23:28:32 -0400",
       "cod": "2018-09-15 00:23:22 -0400",
@@ -386,6 +400,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2018-07-21 21:26:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-12-01 00:21:34 -0500"
     },
     "done": true
   },
@@ -440,6 +460,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-21 21:06:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_the_recipe": "2018-12-01 01:22:16 -0500"
     },
     "done": true
   },
@@ -527,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2018-12-01 01:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-21 21:06:47 -0400"
@@ -549,8 +581,8 @@
     "criteria": {
       "minecraft:cow": "2018-07-28 00:02:30 -0400",
       "minecraft:chicken": "2018-09-02 23:26:44 -0400",
-      "minecraft:pig": "2018-07-28 00:02:34 -0400",
       "minecraft:llama": "2018-09-03 00:38:10 -0400",
+      "minecraft:pig": "2018-07-28 00:02:34 -0400",
       "minecraft:turtle": "2018-07-27 23:17:08 -0400",
       "minecraft:sheep": "2018-07-28 00:02:20 -0400"
     },
@@ -595,6 +627,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-09-15 00:46:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2018-12-01 01:29:19 -0500"
     },
     "done": true
   },
@@ -685,6 +723,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2018-07-21 21:26:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-12-17 11:13:05 -0500"
     },
     "done": true
   },
@@ -832,13 +876,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-09-15 00:46:35 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-09-15 00:46:35 -0400"
     },
@@ -852,13 +896,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2018-12-01 00:29:08 -0500",
       "minecraft:skeleton": "2018-09-02 23:28:05 -0400",
+      "minecraft:phantom": "2018-12-01 00:19:01 -0500",
+      "minecraft:wither_skeleton": "2018-12-01 00:29:31 -0500",
+      "minecraft:zombie_pigman": "2018-12-01 01:00:38 -0500",
       "minecraft:husk": "2018-07-22 10:51:12 -0400",
       "minecraft:cave_spider": "2018-09-07 23:51:18 -0400",
       "minecraft:spider": "2018-07-27 22:25:54 -0400",
       "minecraft:zombie": "2018-07-22 10:38:14 -0400",
-      "minecraft:drowned": "2018-07-27 23:26:40 -0400",
       "minecraft:creeper": "2018-07-22 10:55:55 -0400",
+      "minecraft:drowned": "2018-07-27 23:26:40 -0400",
       "minecraft:zombie_villager": "2018-07-27 22:05:37 -0400"
     },
     "done": false
@@ -989,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-11-30 23:12:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2018-07-21 20:34:15 -0400"
@@ -998,6 +1052,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-21 21:24:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-12-17 11:15:51 -0500"
     },
     "done": true
   },
@@ -1085,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2018-12-01 00:14:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2018-07-21 21:16:20 -0400"
@@ -1130,6 +1196,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2018-07-21 21:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2018-12-01 01:22:17 -0500"
     },
     "done": true
   },
@@ -1523,6 +1595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2018-12-01 01:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2018-09-15 00:37:22 -0400"
@@ -1551,6 +1629,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2018-07-27 23:20:41 -0400",
       "minecraft:forest": "2018-09-15 01:41:40 -0400",
+      "minecraft:mountains": "2018-11-30 23:06:33 -0500",
       "minecraft:desert_hills": "2018-07-21 22:01:38 -0400",
       "minecraft:deep_cold_ocean": "2018-07-27 23:21:16 -0400",
       "minecraft:desert": "2018-07-21 20:38:54 -0400",
@@ -1559,8 +1638,8 @@
       "minecraft:deep_lukewarm_ocean": "2018-09-15 01:52:18 -0400",
       "minecraft:savanna_plateau": "2018-07-27 23:40:16 -0400",
       "minecraft:beach": "2018-07-22 11:15:30 -0400",
-      "minecraft:river": "2018-07-21 20:38:50 -0400",
       "minecraft:lukewarm_ocean": "2018-09-15 01:52:17 -0400",
+      "minecraft:river": "2018-07-21 20:38:50 -0400",
       "minecraft:wooded_hills": "2018-07-21 20:35:24 -0400",
       "minecraft:savanna": "2018-07-21 21:32:01 -0400",
       "minecraft:plains": "2018-07-21 20:33:58 -0400"
@@ -1669,6 +1748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-12-01 01:24:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-07-21 21:26:12 -0400"
@@ -1693,9 +1778,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2018-12-01 01:29:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-07-21 21:21:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2018-12-01 01:22:17 -0500"
     },
     "done": true
   },
