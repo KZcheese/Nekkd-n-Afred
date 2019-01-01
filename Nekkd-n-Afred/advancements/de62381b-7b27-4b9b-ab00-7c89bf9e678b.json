@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2018-12-19 23:41:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-07-21 21:16:20 -0400"
@@ -451,13 +457,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-21 21:06:47 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-21 21:06:47 -0400"
     },
@@ -581,8 +587,8 @@
     "criteria": {
       "minecraft:cow": "2018-07-28 00:02:30 -0400",
       "minecraft:chicken": "2018-09-02 23:26:44 -0400",
-      "minecraft:llama": "2018-09-03 00:38:10 -0400",
       "minecraft:pig": "2018-07-28 00:02:34 -0400",
+      "minecraft:llama": "2018-09-03 00:38:10 -0400",
       "minecraft:turtle": "2018-07-27 23:17:08 -0400",
       "minecraft:sheep": "2018-07-28 00:02:20 -0400"
     },
@@ -810,6 +816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2018-12-19 23:41:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2018-08-27 23:28:10 -0400"
@@ -876,13 +888,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-09-15 00:46:35 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-09-15 00:46:35 -0400"
     },
@@ -905,8 +917,8 @@
       "minecraft:cave_spider": "2018-09-07 23:51:18 -0400",
       "minecraft:spider": "2018-07-27 22:25:54 -0400",
       "minecraft:zombie": "2018-07-22 10:38:14 -0400",
-      "minecraft:creeper": "2018-07-22 10:55:55 -0400",
       "minecraft:drowned": "2018-07-27 23:26:40 -0400",
+      "minecraft:creeper": "2018-07-22 10:55:55 -0400",
       "minecraft:zombie_villager": "2018-07-27 22:05:37 -0400"
     },
     "done": false
@@ -1628,8 +1640,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-07-27 23:20:41 -0400",
-      "minecraft:forest": "2018-09-15 01:41:40 -0400",
       "minecraft:mountains": "2018-11-30 23:06:33 -0500",
+      "minecraft:forest": "2018-09-15 01:41:40 -0400",
       "minecraft:desert_hills": "2018-07-21 22:01:38 -0400",
       "minecraft:deep_cold_ocean": "2018-07-27 23:21:16 -0400",
       "minecraft:desert": "2018-07-21 20:38:54 -0400",
@@ -1638,8 +1650,9 @@
       "minecraft:deep_lukewarm_ocean": "2018-09-15 01:52:18 -0400",
       "minecraft:savanna_plateau": "2018-07-27 23:40:16 -0400",
       "minecraft:beach": "2018-07-22 11:15:30 -0400",
-      "minecraft:lukewarm_ocean": "2018-09-15 01:52:17 -0400",
+      "minecraft:dark_forest": "2018-12-19 23:41:28 -0500",
       "minecraft:river": "2018-07-21 20:38:50 -0400",
+      "minecraft:lukewarm_ocean": "2018-09-15 01:52:17 -0400",
       "minecraft:wooded_hills": "2018-07-21 20:35:24 -0400",
       "minecraft:savanna": "2018-07-21 21:32:01 -0400",
       "minecraft:plains": "2018-07-21 20:33:58 -0400"
