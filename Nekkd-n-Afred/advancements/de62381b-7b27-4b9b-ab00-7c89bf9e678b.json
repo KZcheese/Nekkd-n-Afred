@@ -915,6 +915,7 @@
       "minecraft:zombie_pigman": "2018-12-01 01:00:38 -0500",
       "minecraft:husk": "2018-07-22 10:51:12 -0400",
       "minecraft:cave_spider": "2018-09-07 23:51:18 -0400",
+      "minecraft:enderman": "2019-01-21 01:57:22 -0500",
       "minecraft:spider": "2018-07-27 22:25:54 -0400",
       "minecraft:zombie": "2018-07-22 10:38:14 -0400",
       "minecraft:drowned": "2018-07-27 23:26:40 -0400",
@@ -1142,6 +1143,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-09-03 00:33:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-01-21 01:40:40 -0500"
     },
     "done": true
   },
@@ -1767,6 +1774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-01-21 01:44:35 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-07-21 21:26:12 -0400"
@@ -1818,6 +1831,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-21 21:24:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-01-21 01:40:40 -0500"
     },
     "done": true
   },

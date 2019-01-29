@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-01-22 15:21:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2018-08-04 10:47:19 -0400"
@@ -608,6 +614,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-01-21 02:05:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2018-08-04 11:12:18 -0400"
@@ -631,13 +643,13 @@
       "minecraft:husk": "2018-08-04 12:41:38 -0400",
       "minecraft:ghast": "2018-08-31 00:53:59 -0400",
       "minecraft:cave_spider": "2018-09-07 23:48:13 -0400",
-      "minecraft:silverfish": "2018-09-17 20:12:06 -0400",
       "minecraft:enderman": "2018-09-08 00:41:11 -0400",
+      "minecraft:silverfish": "2018-09-17 20:12:06 -0400",
       "minecraft:magma_cube": "2018-08-31 00:57:05 -0400",
       "minecraft:spider": "2018-08-04 11:12:03 -0400",
       "minecraft:zombie": "2018-08-04 11:11:24 -0400",
-      "minecraft:drowned": "2018-09-01 17:18:25 -0400",
       "minecraft:creeper": "2018-08-04 11:34:15 -0400",
+      "minecraft:drowned": "2018-09-01 17:18:25 -0400",
       "minecraft:zombie_villager": "2018-08-04 11:33:38 -0400",
       "minecraft:slime": "2018-09-01 19:57:16 -0400"
     },
@@ -800,6 +812,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2018-08-31 00:47:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-01-21 01:40:40 -0500"
     },
     "done": true
   },
@@ -1166,8 +1184,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-08-04 12:26:37 -0400",
-      "minecraft:mountains": "2018-08-04 13:18:56 -0400",
       "minecraft:forest": "2018-08-31 13:33:39 -0400",
+      "minecraft:mountains": "2018-08-04 13:18:56 -0400",
       "minecraft:taiga": "2018-09-01 17:14:58 -0400",
       "minecraft:desert_hills": "2018-08-04 12:38:30 -0400",
       "minecraft:deep_cold_ocean": "2018-08-04 12:26:44 -0400",
@@ -1177,8 +1195,8 @@
       "minecraft:savanna_plateau": "2018-08-04 12:07:47 -0400",
       "minecraft:beach": "2018-08-04 12:26:35 -0400",
       "minecraft:dark_forest": "2018-09-14 09:50:13 -0400",
-      "minecraft:lukewarm_ocean": "2018-09-18 22:40:29 -0400",
       "minecraft:river": "2018-08-04 11:31:32 -0400",
+      "minecraft:lukewarm_ocean": "2018-09-18 22:40:29 -0400",
       "minecraft:wooded_mountains": "2018-09-19 19:39:19 -0400",
       "minecraft:wooded_hills": "2018-09-07 22:14:28 -0400",
       "minecraft:swamp": "2018-08-04 13:37:47 -0400",
@@ -1691,6 +1709,8 @@
       "rotten_flesh": "2018-08-04 11:46:47 -0400",
       "dried_kelp": "2018-09-02 16:09:35 -0400",
       "salmon": "2018-09-19 21:14:51 -0400",
+      "melon_slice": "2019-01-13 16:43:44 -0500",
+      "golden_carrot": "2019-01-21 01:56:27 -0500",
       "cooked_rabbit": "2018-09-03 00:30:24 -0400",
       "cooked_chicken": "2018-09-03 00:41:37 -0400",
       "cod": "2018-09-19 21:15:47 -0400",
@@ -1860,13 +1880,13 @@
     "criteria": {
       "minecraft:cow": "2018-08-04 13:09:40 -0400",
       "minecraft:chicken": "2018-08-04 12:11:59 -0400",
-      "minecraft:wolf": "2018-09-18 21:39:12 -0400",
-      "minecraft:llama": "2018-09-03 10:34:14 -0400",
       "minecraft:pig": "2018-08-05 16:45:49 -0400",
-      "minecraft:horse": "2018-08-05 15:22:27 -0400",
+      "minecraft:llama": "2018-09-03 10:34:14 -0400",
+      "minecraft:wolf": "2018-09-18 21:39:12 -0400",
       "minecraft:turtle": "2018-09-06 17:15:07 -0400",
-      "minecraft:sheep": "2018-08-31 09:51:43 -0400",
-      "minecraft:rabbit": "2018-08-31 14:01:59 -0400"
+      "minecraft:horse": "2018-08-05 15:22:27 -0400",
+      "minecraft:rabbit": "2018-08-31 14:01:59 -0400",
+      "minecraft:sheep": "2018-08-31 09:51:43 -0400"
     },
     "done": false
   },
@@ -2602,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-01-22 15:15:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_logs": "2018-08-05 09:24:38 -0400"
@@ -2734,6 +2760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-01-21 01:41:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-08-04 10:47:19 -0400"
@@ -2779,6 +2811,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-08-04 12:28:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-01-21 01:40:40 -0500"
     },
     "done": true
   },
