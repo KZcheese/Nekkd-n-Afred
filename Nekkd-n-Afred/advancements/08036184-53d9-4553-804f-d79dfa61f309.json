@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-02-02 01:58:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2018-11-30 23:32:32 -0500"
@@ -460,13 +466,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-09-01 10:11:52 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-09-01 10:11:52 -0400"
     },
@@ -487,6 +493,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2018-09-01 10:11:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-02-02 01:58:37 -0500"
     },
     "done": true
   },
@@ -661,15 +673,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2018-09-01 10:11:52 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2018-09-01 10:11:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2018-09-01 10:11:52 -0400"
     },
     "done": true
   },
@@ -817,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-02-02 01:58:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-09-01 10:11:52 -0400"
@@ -871,10 +889,11 @@
       "minecraft:phantom": "2018-11-30 22:37:01 -0500",
       "minecraft:husk": "2018-09-09 00:02:40 -0400",
       "minecraft:cave_spider": "2018-09-07 23:54:59 -0400",
+      "minecraft:enderman": "2019-02-02 02:15:19 -0500",
       "minecraft:spider": "2018-09-08 00:35:04 -0400",
       "minecraft:zombie": "2018-09-07 23:12:46 -0400",
-      "minecraft:creeper": "2018-09-08 00:33:36 -0400",
       "minecraft:drowned": "2018-09-08 01:09:15 -0400",
+      "minecraft:creeper": "2018-09-08 00:33:36 -0400",
       "minecraft:zombie_villager": "2018-12-19 23:50:55 -0500"
     },
     "done": false
@@ -1528,15 +1547,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2018-09-01 10:11:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2018-09-01 10:11:52 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_bed": "2018-09-01 10:11:52 -0400"
+      "has_leather": "2019-02-02 01:58:37 -0500"
     },
     "done": true
   },
@@ -1609,8 +1634,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-09-15 00:15:40 -0400",
-      "minecraft:mountains": "2018-09-21 22:42:42 -0400",
       "minecraft:forest": "2018-11-30 21:47:32 -0500",
+      "minecraft:mountains": "2018-09-21 22:42:42 -0400",
       "minecraft:desert_hills": "2018-09-07 23:16:07 -0400",
       "minecraft:deep_cold_ocean": "2018-09-15 00:17:11 -0400",
       "minecraft:desert": "2018-09-01 10:11:53 -0400",
@@ -1694,6 +1719,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2018-09-07 23:49:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-02-02 01:58:37 -0500"
     },
     "done": true
   },
